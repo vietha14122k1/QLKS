@@ -1,0 +1,1 @@
+{"__version__":1,"totalSize":96414,"count":13,"data":{"APC.php":[0,9548],"CacheBase.php":[0,10594],"DiscISAM.php":[0,6776],"ICache.php":[0,3484],"Igbinary.php":[0,4862],"Memcache.php":[0,10709],"Memory.php":[0,3800],"MemoryGZip.php":[0,4333],"MemorySerialized.php":[0,4319],"PHPTemp.php":[0,6451],"SQLite.php":[0,10363],"SQLite3.php":[0,11230],"Wincache.php":[0,9945]}}

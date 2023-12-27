@@ -1,0 +1,1 @@
+{"__version__":1,"totalSize":117209,"count":9,"data":{"CHANGELOG.TXT":[0,500],"CholeskyDecomposition.php":[0,4531],"EigenvalueDecomposition.php":[0,32463],"LUDecomposition.php":[0,8112],"Matrix.php":[0,41266],"QRDecomposition.php":[0,7693],"SingularValueDecomposition.php":[0,18638],"utils":[1,4006]}}
